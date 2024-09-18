@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568490346392",
+    "project_id": "mypersonallibrary-89ede",
+    "storage_bucket": "mypersonallibrary-89ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568490346392:android:8998d44c351588606d0ded",
+        "android_client_info": {
+          "package_name": "com.mypersonallibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9YL-xKifNf606XFOpf4HIZtG-eqaowQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
